@@ -1,4 +1,4 @@
-Example Voting App Test Poling
+Example Voting App
 =========
 
 Getting started
